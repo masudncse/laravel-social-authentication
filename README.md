@@ -1,5 +1,5 @@
-## Online Pizza Shop
-A simple application on a online pizza shop.
+## Laravel Social Authentication
+An example on social login system in laravel application.
 
 ## Features
 - Laravel Login
